@@ -1,2 +1,2 @@
 # RAG Application
-RAG_BOT
+RAG_Application using Langchain/Langsmith 
