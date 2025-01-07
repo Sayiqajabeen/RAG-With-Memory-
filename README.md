@@ -1,2 +1,2 @@
-# RAG pplication
+# RAG Application
 RAG_BOT
